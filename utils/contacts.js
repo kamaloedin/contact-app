@@ -28,7 +28,7 @@ const findContact = (nama) => {
 
 // Menambah data ke dalam contacts.json
 const saveContacts = (contacts) => {
-  fs.writeFileSync("data/contacts.json", JSON.stringify(contacts));
+  fs.writeFileSync("data/contacts.json", JSON.stringify(contacts, null, 2));
 };
 
 const addContact = (contact) => {
