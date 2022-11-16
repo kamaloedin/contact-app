@@ -1,1 +1,7 @@
-[{"nama":"Kamal","email":"kamal@gmail.com","nohp":"0812345678"},{"nama":"Udin","email":"udin@gmail.com","nohp":"08157345678"},{"nama":"Farhan","email":"farhan@gmail.com","nohp":"0857987612"},{"nama":"Golang","email":"golang@gmail.com","nohp":"0812345678"},{"nama":"Panjioo","email":"panjioo@gmail.com","nohp":"0896098145"}]
+[
+  { "nama": "Kamal", "email": "kamal@gmail.com", "nohp": "0812345678" },
+  { "nama": "Udin", "email": "udin@gmail.com", "nohp": "08157345678" },
+  { "nama": "Farhan", "email": "farhan@gmail.com", "nohp": "0857987612" },
+  { "nama": "Golang", "email": "golang@gmail.com", "nohp": "0812345678" },
+  { "nama": "Panjioo", "email": "panjioo@gmail.com", "nohp": "0896098145" }
+]
